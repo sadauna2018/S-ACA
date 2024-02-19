@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blockchain & Web3 Basics</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f2f2f2;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    main {
+      padding: 20px;
+    }
+
+    section {
+      margin-bottom: 20px;
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 10px 20px;
+      text-align: center;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Blockchain & Web3 Basics</h1>
+  </header>
+  <main>
+    <section id="blockchain-section">
+      <h2>Blockchain</h2>
+      <p>Blockchain is a decentralized, distributed ledger technology that records transactions across multiple computers in a way that ensures the security, transparency, and immutability of the data.</p>
+      <p>It's the technology behind cryptocurrencies like Bitcoin and Ethereum.</p>
+    </section>
+    <section id="web3-section">
+      <h2>Web3</h2>
+      <p>Web3 refers to the next generation of the internet, where decentralized applications (dApps) built on blockchain technology enable peer-to-peer interactions without the need for intermediaries.</p>
+      <p>It enables users to interact directly with blockchain networks, access decentralized finance (DeFi) platforms, and more.</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2024 Your Website</p>
+  </footer>
+</body>
+</html>
